@@ -1,5 +1,5 @@
-#ifndef GRAFICI_GRAFICI_H
-#define GRAFICI_GRAFICI_H
+#ifndef GRAFICI_GXEPD2_H
+#define GRAFICI_GXEPD2_H
 
 #ifndef MAP_COLUMNS
 #define MAP_COLUMNS 32

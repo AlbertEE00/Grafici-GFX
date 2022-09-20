@@ -1,7 +1,7 @@
 #ifndef GRAFICI_GFX_PLOTTER_HEATMAP_H
 #define GRAFICI_GFX_PLOTTER_HEATMAP_H
 
-#include "../Grafici.h"
+#include "../Grafici_for_GxEPD2.h"
 #include "../Plotter.h"
 
 namespace Plotter
