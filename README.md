@@ -21,4 +21,5 @@ This modular library allows you to easily manage and plot data on any arduino di
 ## Documentation
 Documentation available in the [wiki](https://github.com/cattanimarco/Grafici-GFX/wiki)
 
+This is a fork that makes this library compatible with EPaper Displays and GxEPD2
 
